@@ -47,7 +47,7 @@ object BuildConfig {
         const val kotlinx_coroutines_android_version = "1.6.0"
         const val core_ktx_version = "1.7.0"
         const val brv_version = "1.3.79"
-        const val multi_languages_version = "6.9"
+        const val multi_languages_version = "9.8"
 
         const val zip4j_version = "2.9.1"
         const val javapoet_version = "1.13.0"
